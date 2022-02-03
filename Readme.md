@@ -4,10 +4,9 @@ Some wild plants are edible , but identifying them can be time consuming. So wit
 We have trained this model on a wide dataset of images. It's accuracy is generally quite high.
 
 # Team Members
-1. Asmi Panigrahi      (19BAI10185)
-2. Sirshak Sarkar      (19BCY10127)
-3. Sapratibh Dev       (19BCY10112)
-4. Viplav Khubchandani (19BAI10106)
+1. Asmi Panigrahi              (19BAI10185)
+2. Sapratibh Dev Mahanta       (19BCY10112)
+
 
 # Applications Used
 * Jupyter Notebook
